@@ -173,3 +173,79 @@
         float: left;
     }
 }
+@media (min-width: 769px) and (max-width: 992px) {
+    .col-sm-1 {
+        width: 7.333%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+
+    .col-sm-2 {
+        width: 15.667%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-3{
+        width: 24%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-4{
+        width: 32.333%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+
+    .col-sm-5{
+        width: 40.667%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-6{
+        width: 49%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-7{
+        width: 57.333%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-8{
+        width: 65.666%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-9{
+        width: 74%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-10{
+        width: 82.333%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-11{
+        width: 90.666%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+    .col-sm-12{
+        width: 99%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        float: left;
+    }
+}
