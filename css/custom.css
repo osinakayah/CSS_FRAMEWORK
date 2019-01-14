@@ -1,0 +1,50 @@
+.nav-bar{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 24px;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: white;
+    margin-top: 1rem;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(0, 0, 0, .2)), color-stop(0.05, rgba(0, 0, 0, 0)), color-stop(0.97, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .45))), -webkit-gradient(linear, 0 0, 100% 0, from(rgba(0, 0, 0, .2)), color-stop(0.002, rgba(0, 0, 0, 0)), color-stop(0.998, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .2))), url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA9QAAAAkCAMAAABfcIIyAAAAGXRFW…px%2BeQqLpPJDae9P5%2FmrVz491%2FWekBlKy7PXVfn9rb9xXsMD2wdOcAAAAAElFTkSuQmCC) no-repeat 50% 50%, -webkit-gradient(linear, 0 100%, 0 0, from(#666), color-stop(0.5, #5e5e5e), color-stop(0.51, #707070), to(#808080));
+}
+
+.jumbotron {
+    background-image: url("../images/your_verse_hero.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 40rem;
+    width: 100%;
+
+    padding: 0!important;
+    margin: 0!important;
+}
+
+.box{
+    margin-top: 7rem;
+    text-align: center;
+    color: white;
+}
+.footer{
+    margin-top: 1rem;
+    font-size: small;
+}
+
+.footer div.row div p a{
+    border-right-color: grey;
+    border-right-style: solid;
+    border-right-width: 1px;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+#last-item{
+    border-right: none;
+}
+
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
