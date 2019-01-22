@@ -10,7 +10,7 @@ A responsive built with this framework can be found here <a href="https://osinak
 
 # CONTRIBUTORS 
 
-<a href="https://github.com/osinakayah/" target="_blank">Osinachi Ifeanyi</a>
+<a href="https://github.com/osinakayah/" target="_blank">Osinachi Ifeanyi</a> <br/>
 <a href="https://github.com/sanelca" target="_blank">Sanel Hodzic</a><br /><br />
 
 
